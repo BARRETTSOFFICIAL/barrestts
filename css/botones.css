@@ -38,7 +38,7 @@
 }
 
 .fa-instagram {
-  background: #125688;
+  background: #12568;
   color: white;
 }
 
@@ -115,5 +115,10 @@
 
 .fa-rss {
   background: #ff6600;
+  color: white;
+}
+
+.fa-telegram {
+  background: #85C1E9 ;
   color: white;
 }
